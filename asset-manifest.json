@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//JLachhman.github.io/seg3125-project2-fitnessapp/static/css/main.31cd00b7.css",
-    "main.js": "/https//JLachhman.github.io/seg3125-project2-fitnessapp/static/js/main.65fc6052.js",
-    "static/js/787.5245b95e.chunk.js": "/https//JLachhman.github.io/seg3125-project2-fitnessapp/static/js/787.5245b95e.chunk.js",
-    "index.html": "/https//JLachhman.github.io/seg3125-project2-fitnessapp/index.html",
-    "main.31cd00b7.css.map": "/https//JLachhman.github.io/seg3125-project2-fitnessapp/static/css/main.31cd00b7.css.map",
-    "main.65fc6052.js.map": "/https//JLachhman.github.io/seg3125-project2-fitnessapp/static/js/main.65fc6052.js.map",
-    "787.5245b95e.chunk.js.map": "/https//JLachhman.github.io/seg3125-project2-fitnessapp/static/js/787.5245b95e.chunk.js.map"
+    "main.css": "/seg3125-project2-fitnessapp/static/css/main.31cd00b7.css",
+    "main.js": "/seg3125-project2-fitnessapp/static/js/main.5aeee315.js",
+    "static/js/787.5245b95e.chunk.js": "/seg3125-project2-fitnessapp/static/js/787.5245b95e.chunk.js",
+    "index.html": "/seg3125-project2-fitnessapp/index.html",
+    "main.31cd00b7.css.map": "/seg3125-project2-fitnessapp/static/css/main.31cd00b7.css.map",
+    "main.5aeee315.js.map": "/seg3125-project2-fitnessapp/static/js/main.5aeee315.js.map",
+    "787.5245b95e.chunk.js.map": "/seg3125-project2-fitnessapp/static/js/787.5245b95e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31cd00b7.css",
-    "static/js/main.65fc6052.js"
+    "static/js/main.5aeee315.js"
   ]
 }
